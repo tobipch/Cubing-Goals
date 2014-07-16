@@ -1,0 +1,175 @@
+"timeGoals" : [
+    {
+        target: "Sub25 Ao100",
+        event: "3x3x3",
+        date: "15.07.2014",
+        finished: true,
+        finishedOn: "12.07.2014",
+        current: false
+    },
+    
+    {
+        target: "Sub20 Ao100",
+        event: "3x3x3",
+        date: "01.10.2014",
+        finished: false,
+        finishedOn: "",
+        current: true
+    },
+    
+    {
+        target: "Sub17 Ao100",
+        event: "3x3x3",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub15 Ao100",
+        event: "3x3x3",
+        date: "23.03.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub10 Ao100",
+        event: "3x3x3",
+        date: "15.07.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub1m Ao12",
+        event: "3x3x3 OH",
+        date: "01.01.2014",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub40 Ao12",
+        event: "3x3x3 OH",
+        date: "01.05.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub5.5 Ao100",
+        event: "Pyraminx",
+        date: "01.08.2014",
+        finished: false,
+        finishedOn: "",
+        current: true
+    },
+    
+    {
+        target: "Sub5 Ao100",
+        event: "Pyraminx",
+        date: "01.10.2014",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Official Swiss Record",
+        event: "Pyraminx",
+        date: "Swiss Open 2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub6 Ao100",
+        event: "2x2x2",
+        date: "01.11.2014",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub4 Ao100",
+        event: "2x2x2",
+        date: "23.03.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub2m Ao5",
+        event: "4x4x4",
+        date: "01.09.2014",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Sub1m Ao5",
+        event: "4x4x4",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    }
+],
+
+"methodGoals" : [
+    {
+        target: "Full CLL",
+        event: "2x2x2",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Full OLL",
+        event: "3x3x3",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "OH Algos",
+        event: "3x3x3 OH",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "Yau Method",
+        event: "4x4x4",
+        date: "15.08.2014",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+    {
+        target: "1-Flip",
+        event: "Pyraminx",
+        date: "01.01.2015",
+        finished: false,
+        finishedOn: "",
+        current: false
+    },
+    
+]
