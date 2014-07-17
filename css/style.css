@@ -1,0 +1,74 @@
+@font-face {
+    font-family: NotoSans;
+    src:url(../assets/fonts/NotoSans.ttf);
+}
+
+@font-face {
+    font-family: Code;
+    src:url(../assets/fonts/BebasNeue.otf);
+}
+
+body{
+    background-color: #000;
+    font-family: NotoSans !important;
+    background-image: url(http://subtlepatterns.com/patterns/cubes.png);
+    
+}
+
+#title {
+    text-align: center;
+    margin-bottom: 2%;
+    font-family: Code;
+    font-size: 80px;
+    font-weight: 100;
+    letter-spacing: 3px;
+    color: #404040;
+    cursor: pointer;
+}
+
+td{
+    font-size: 16px;
+    text-align: center;
+}
+
+tr{
+    background-color: #FFF;
+}
+
+tbody > tr:hover{
+    background-color: #f5f5f5;
+}
+
+th{
+    text-align: center;
+}
+
+.td_goal{
+    font-size: 18px;
+}
+
+.td_2x2x2{
+    background-color: #8cdbd6 !important;
+}
+
+.td_3x3x3{
+    background-color: #e8c0bb !important;
+}
+
+.td_3x3x3OH{
+    background-color: #E9E0D6 !important;
+}
+
+.td_4x4x4{
+    background-color: #90a8c6 !important;
+}
+
+.td_pyraminx{
+    background-color: #c2e6ff !important;
+}
+
+#goalTable{
+    width: 50%;
+    margin: 0px auto;
+    margin-bottom: 5%;
+}
