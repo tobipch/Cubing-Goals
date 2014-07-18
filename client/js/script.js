@@ -1,7 +1,7 @@
 $(document).ready(function(){
     var data;
     
-    $.getJSON("data.json",function(res){
+    $.getJSON("../data.json",function(res){
         data = res;
         startBackbone(data);
     });
@@ -98,8 +98,8 @@ function startBackbone(data){
                     break;
             }        
             newtr += "<td>"+goal.get("date")+"</td>";
-            newtr += goal.get("finished")?"<td><img src='assets/images/check.png' /></td>":"<td><img src='assets/images/cross.png' /></td>";
-            newtr += goal.get("current")?"<td><img src='assets/images/check.png' /></td>":"<td><img src='assets/images/cross.png' /></td>";
+            newtr += goal.get("finished")=="true"?"<td><img src='assets/images/check.png' /></td>":"<td><img src='assets/images/cross.png' /></td>";
+            newtr += goal.get("current")=="true"?"<td><img src='assets/images/check.png' /></td>":"<td><img src='assets/images/cross.png' /></td>";
             newtr += "</tr>";
             $("tbody",this.el).append(newtr);
         }
@@ -121,4 +121,6 @@ function startBackbone(data){
         
         tableView.addGoal(d_goal, d_event, d_date, d_finished, d_current);
     }
+    
+    $("#goalTable").tablesorter();
 }

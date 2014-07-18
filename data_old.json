@@ -1,0 +1,156 @@
+{
+    "timeGoals" : [
+        {
+            "goal": "Sub25 Ao100",
+            "event": "3x3x3",
+            "date": "15.07.2014",
+            "finished": true,
+            "current": false
+        },
+
+        {
+            "goal": "Sub20 Ao100",
+            "event": "3x3x3",
+            "date": "01.10.2014",
+            "finished": false,
+            "current": true
+        },
+
+        {
+            "goal": "Sub17 Ao100",
+            "event": "3x3x3",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub15 Ao100",
+            "event": "3x3x3",
+            "date": "23.03.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub10 Ao100",
+            "event": "3x3x3",
+            "date": "15.07.2015",
+            "finished": false,
+            
+            "current": false
+        },
+
+        {
+            "goal": "Sub1m Ao12",
+            "event": "3x3x3 OH",
+            "date": "01.01.2014",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub40 Ao12",
+            "event": "3x3x3 OH",
+            "date": "01.05.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub5.5 Ao100",
+            "event": "Pyraminx",
+            "date": "01.08.2014",
+            "finished": false,
+            "current": true
+        },
+
+        {
+            "goal": "Sub5 Ao100",
+            "event": "Pyraminx",
+            "date": "01.10.2014",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Official Swiss Record",
+            "event": "Pyraminx",
+            "date": "Swiss Open 2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub6 Ao100",
+            "event": "2x2x2",
+            "date": "01.11.2014",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub4 Ao100",
+            "event": "2x2x2",
+            "date": "23.03.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub2m Ao5",
+            "event": "4x4x4",
+            "date": "01.09.2014",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Sub1m Ao5",
+            "event": "4x4x4",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Full CLL",
+            "event": "2x2x2",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Full OLL",
+            "event": "3x3x3",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "OH Algos",
+            "event": "3x3x3 OH",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "Yau Method",
+            "event": "4x4x4",
+            "date": "15.08.2014",
+            "finished": false,
+            "current": false
+        },
+
+        {
+            "goal": "1-Flip",
+            "event": "Pyraminx",
+            "date": "01.01.2015",
+            "finished": false,
+            "current": false
+        }
+    ]
+}
